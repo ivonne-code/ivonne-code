@@ -83,7 +83,7 @@ A quantitative builder working where machine learning, LLMs, and finance meet �
 
 **[AI recommendation system / GEO](https://github.com/ivonne-code/AI-recommendation-system)** — iSchool at Illinois. Interactive platform: pick a product category, rewrite reviews in real time, and watch the LLM's recommendation order change.
 
-**[Mitochondrial network segmentation — 3D-Mito-Analyzer](https://github.com/yifei28/3D-Mito-Analyzer)** — Grainger College of Engineering. U-Net pipeline combining classical computer vision preprocessing with neural networks.
+**Mitochondrial network segmentation** — Grainger College of Engineering. U-Net pipeline combining classical computer vision preprocessing with neural networks.
 
 **[Expected Goals (xG) model](https://github.com/ivonne-code/xG-project-code)** — spatial feature normalization for shot distance, angle, and field position, plus shot-location heat maps.
 
